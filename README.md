@@ -1,7 +1,10 @@
 # COMPSCI 361 A3
 
+This repository contains the code and the data used in the 3rd Assignment of Compsci 361.
+
 ## Requirements 
-* Python 3
+*   Python 3
+*   Jupyter notebook
 
 ## How to use 
 
